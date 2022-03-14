@@ -1,0 +1,15 @@
+@media (min-width:700px) {
+  .main {
+    height: 60%;
+  }
+
+  .todo__container {
+    width: 90%;
+    margin: 1rem auto;
+  }
+
+  .todo .todo__text {
+    max-width: 300px;
+    text-align: left;
+  }
+}
