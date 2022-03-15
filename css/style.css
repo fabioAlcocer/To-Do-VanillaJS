@@ -101,7 +101,7 @@ body {
 }
 .todo .todo__text {
   max-width: 300px;
-  text-align: center;
+  text-align: left;
   color: #a0a0a0;
 }
 
