@@ -150,6 +150,7 @@ form .form__input {
   border: none;
   padding: 12px;
   border-radius: 15px;
+  caret-color: var(--primary-color);
 }
 form input:focus {
   color: #333;
